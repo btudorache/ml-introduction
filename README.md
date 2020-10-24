@@ -18,4 +18,4 @@ Tema cuprinde patru parti, fiecare avand un scop anume:
     * utilizarea unei metode iterative (Gradient Descent) pentru rezolvarea unui sistem liniar Ax = b, astfel
 continuand initierea in Invatarea Supervizata (ML).
 
-Cerintele sunt rezolvate in Octave. Detaliile complete se gasesc in [enuntul problemei](https://github.com/btudorache/ml-introduction/blob/master/Tema%201%20-%202020.pdf) si in fiecare fisier asociat unei cerinte.
+Cerintele sunt rezolvate in GNU Octave. Detaliile complete se gasesc in [enuntul problemei](https://github.com/btudorache/ml-introduction/blob/master/Tema%201%20-%202020.pdf) si in fiecare fisier asociat unei cerinte.
